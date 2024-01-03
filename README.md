@@ -1,6 +1,6 @@
 # CwhTodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4 following Angular Tutorial of Date 10 April 2021 and require only ng serve.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4. It is Angular Tutorial in Hindi dated Apr 10, 2021 of playlist Learn In One Video In Hindi of channel CodeWithHarry
 
 ## Development server
 
