@@ -1,6 +1,6 @@
 # CwhTodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4 following Angular Tutorial of Date 10 April 2021 and require only ng serve.
 
 ## Development server
 
